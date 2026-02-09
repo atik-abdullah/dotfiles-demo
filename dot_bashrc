@@ -160,3 +160,4 @@ fi
 # Atik's custom edition
 
 set -o vi
+eval "$(mise activate bash)"
